@@ -1,3 +1,4 @@
+/* styling for dropdown container */
 .dropdown-body {
   margin-top: 10%;
   display: flex;
@@ -5,6 +6,7 @@
   align-items: center;
 }
 
+/* dropdown menu styling */
 .dropDown-menu {
   width: 25%;
   padding: 0 10px;
@@ -23,6 +25,7 @@
   width: 20px;
 }
 
+/* dropdonw menu selector content */
 .dropDown-content {
   margin-top: 5px;
   background-color: whitesmoke;

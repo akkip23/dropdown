@@ -1,3 +1,4 @@
+// dropdown data in array of object format
 export const DropdownData = [
   {
     id: 1,
